@@ -4,7 +4,7 @@
 local currentPlaceId = game.PlaceId
 
 local SupportedGames = {
-    [8735521924] = "https://vss.pandadevelopment.net/virtual/file/734a90b717404860", 
+    [8735521924] = "https://vss.pandadevelopment.net/virtual/file/999332acf8f9421a",
 }
 
 local function SendNotification(title, text)
